@@ -1,0 +1,4 @@
+Selamat datang di SMA Negeri 1 Margaasih.
+Jadwal pelajaran ditampilkan secara realtime.
+Percobaan membuat berita
+Lorem Ipsum is dummy text used to fill layouts so designers can focus on visual structure rather than meaningful content

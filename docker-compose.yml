@@ -1,0 +1,9 @@
+services:
+  jadwal-tv:
+    build: .
+    container_name: jadwal-tv
+    ports:
+      - "8080:80"
+    volumes:
+      - ./public:/opt/jadwal-tv-public:ro
+    restart: unless-stopped
